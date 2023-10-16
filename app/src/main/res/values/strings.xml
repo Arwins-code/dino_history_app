@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dinos History</string>
+    <string name="dino_title">Title</string>
+    <string name="dino_desc">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+</resources>
